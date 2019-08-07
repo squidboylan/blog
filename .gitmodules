@@ -1,0 +1,4 @@
+[submodule "pelican-blueidea"]
+	path = pelican-blueidea
+	url = https://github.com/nasskach/pelican-blueidea.git
+	branch = master
